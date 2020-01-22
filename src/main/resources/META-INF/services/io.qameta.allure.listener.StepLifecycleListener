@@ -1,0 +1,2 @@
+#to enable the allure step logger, uncomment the line below
+#io.github.stykalin.jmjusara.listeners.AllureStepsLogger
